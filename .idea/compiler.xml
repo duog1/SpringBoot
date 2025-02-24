@@ -7,11 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo1" />
-        <module name="lab1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="lab01" target="17" />
+      <module name="lab1" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
